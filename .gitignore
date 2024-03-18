@@ -1,0 +1,7 @@
+# MacOS
+.DS_Store
+
+# folders
+venv
+runs
+data

@@ -1,0 +1,6 @@
+path: /Users/boris/Developer/yolov8/data # absolute path
+train: images/train # relative to 'path'
+val: images/val # relative to 'path'
+
+names:
+  0: bottle
