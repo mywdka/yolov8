@@ -1,6 +1,7 @@
-path: /Users/boris/Developer/yolov8/data # absolute path
+path: /Users/boris/Developer/yolov8/data/books # absolute path
 train: images/train # relative to 'path'
-val: images/val # relative to 'path'
+val: images/train # relative to 'path'
 
 names:
-  0: bottle
+  0: home_made_bio_electronic_arts
+  1: code_as_creative_medium

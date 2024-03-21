@@ -5,3 +5,6 @@
 venv
 runs
 data
+
+# model files
+*.pt
